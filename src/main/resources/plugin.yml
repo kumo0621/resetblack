@@ -1,0 +1,4 @@
+name: resetblack
+version: '${project.version}'
+main: com.github.kumo0621.resetblack.Resetblack
+api-version: "1.20"
